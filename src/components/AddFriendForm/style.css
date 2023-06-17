@@ -1,0 +1,5 @@
+.add-friend-form {
+  grid-template-columns: 1fr 1.5fr;
+  margin-bottom: 1.6rem;
+  padding: 3.2rem 4rem;
+}
